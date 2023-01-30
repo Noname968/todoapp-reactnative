@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "todoapp",
+    "name": "Todo app",
     "slug": "todoapp",
+    "description": "Daily tasks app ",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
